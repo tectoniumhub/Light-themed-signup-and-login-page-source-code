@@ -1,0 +1,5 @@
+# **Light themed SingUp/Login Page**
+In this repo's tutorial is that how to make light themed signup/login page both. BTW repository has **MIT LICENSE** so you cannot clone it or deploy anywhere. But you copy all files code to your project files if you want. And read the guild for "netlify.toml"
+
+### **Guide:**
+**"netlify.toml"** is an configuration file of **[Netlify](https://netlify.com)** and it is an platform where you can deploy your website project even if your website is deploy on netlify then you don't need use **UpTimeRobot** for make it 24/7 online. Netlify monetize your website 24/7 online! but you cannot coding in netlify or it has no inbuilt IDE like replit but it is an website deployer where you can only deploy your website. BTW you can check "netlify.toml" in this repository even also check netlify config docs
